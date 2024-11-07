@@ -1,4 +1,4 @@
-# Scratchcoin 
+# Online transaction System 
 *(A blockchain implementation similar to Bitcoin running on NodeJs)*
 
 **Brief Description:**
